@@ -1,7 +1,7 @@
 import pygame
 
-CELL_WIDTH = 30
-CELL_HEIGHT = 30
+CELL_WIDTH = 60
+CELL_HEIGHT = 60
 
 class BrickCell(pygame.sprite.Sprite):
     #this is how we write constructors in python

@@ -45,7 +45,7 @@ board.draw_board()
 board.cells.draw(screen)
 
 # This is called the Game Loop [VERY IMPORTANT]
-# This is where all the game updates, input handling happends
+# This is where all the game updates, input handling happens
 while 1:
     # Here's how we handle keyboard input
     # This code simply check if we pressed something and end the program
